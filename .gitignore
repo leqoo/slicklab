@@ -1,6 +1,5 @@
 *.class
 *.log
-.directory
 .DS_Store
 
 .idea
