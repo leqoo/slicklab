@@ -1,3 +1,5 @@
+//import java.time.{LocalTime,LocalDate,LocalDateTime}
+
 package object model{
 	case class Company(id: Int, name: String)
 	case class Passenger(id: Int, name: String)
